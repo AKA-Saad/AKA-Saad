@@ -25,9 +25,8 @@ Talk to me about:
 - Solving Data structure and algorithm questions in **Java**.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
+- 🎯 
 - ⚡ Fun fact: Internet users blink less than usual.
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKA-Saad)](https://github.com/AKA-Saad/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
