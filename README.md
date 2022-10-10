@@ -25,7 +25,6 @@ Talk to me about:
 - Solving Data structure and algorithm questions in **Java**.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 🎯 
 - ⚡ Fun fact: Internet users blink less than usual.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKA-Saad)](https://github.com/AKA-Saad/github-readme-stats)
