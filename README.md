@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Saad71759984-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Saad71759984)](https://twitter.com/Saad71759984)  [![Linkedin Badge](https://img.shields.io/badge/-saadfarooq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saad-farooq-4667541b5/)](https://www.linkedin.com/in/saad-farooq-4667541b5/)
 [![Gmail Badge](https://img.shields.io/badge/-saadfarooq531997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saadfarooq531997@gmail.com)](mailto:saadfarooq531997@gmail.com)
 
-I am Harsh Saad Farooq 😃. I am from Islamabad, Pakistan and currently employeed as Senior Web Developer at ZTABS Digital Solution, USA 🏫. I love to explore and learn about new things.
+I am Saad Farooq 😃.  I am from Islamabad, Pakistan and currently employed as Senior Web Developer at ZTABS Digital Solution, USA 🏫. I love to explore and learn about new things.
 ## 👯 Communities
 * DSC Lead.
 * Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes.
@@ -17,21 +17,17 @@ I am Harsh Saad Farooq 😃. I am from Islamabad, Pakistan and currently employe
 * Internshala Student Partner-16.
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
-- Backend development using **Flask, Django**.
+- Front-end development using **HTML, React.js, Vue.js, TailwindCSS Javascript, CSS, Bootstrap**.
+- Backend development using **Laravel, Node**.
 - Making for **Relational Database Management Systems**.
 - Robust full-stack system design implementation.
-- Desktop application development using **Flutter** (Still learning).
-- Mobile application development using **Flutter and Kotlin**.
 - Creating scalable cloud architecture using **AWS Cloud**.
-- Solving Data structure and algorithm questions in **Java and Python**.
+- Solving Data structure and algorithm questions in **Java**.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Harsh Blog](https://medium.com/harsh-kumar-khatri).
 - 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
-- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw).
 - ⚡ Fun fact: Internet users blink less than usual.
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
