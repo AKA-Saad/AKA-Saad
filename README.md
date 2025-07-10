@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Saad71759984-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Saad71759984)](https://twitter.com/Saad71759984)  [![Linkedin Badge](https://img.shields.io/badge/-saadfarooq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saad-farooq-4667541b5/)](https://www.linkedin.com/in/saad-farooq-4667541b5/)
 [![Gmail Badge](https://img.shields.io/badge/-saadfarooq531997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saadfarooq531997@gmail.com)](mailto:saadfarooq531997@gmail.com)
 
-I am Saad Farooq 😃.  I am from Dammam, Saudi Arabia. And currently employed as a Senior Web Engineer at Mannai Tech, Bahrain 🏫. I love to explore and learn about new things.
+I am Saad Farooq 😃.  I am from Riyadh, Saudi Arabia. And currently employed as a Senior Web Engineer at Turing, USA 🏫. I love to explore and learn about new things.
 ## 👯 Communities
 * DSC Lead.
 * Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes.
@@ -18,7 +18,7 @@ I am Saad Farooq 😃.  I am from Dammam, Saudi Arabia. And currently employed a
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, React.js, Vue.js, TailwindCSS Javascript, CSS, Bootstrap**.
-- Backend development using **Laravel, Node**.
+- Backend development using **Django, Laravel, Node**.
 - Making for **Relational Database Management Systems**.
 - Robust full-stack system design implementation.
 - Creating scalable cloud architecture using **AWS Cloud**.
